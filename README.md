@@ -6,9 +6,9 @@ This is my professional webpage that includes a short introduction about myself 
 - Funding: Scholarships and financial awards I have earned.
 - Photos: Relevant photos of research and interests.
 - Contact: How to get in touch with me via email.
-### Motivation
+## Motivation
 A project to introduce myself as well as learn HTML, CSS, and JavaScript. 
-#### Screenshot
+### Screenshot
 ![Webpage](https://github.com/IndecisivAnthro/Personal-Webpage/assets/147926673/6a336fdb-7d23-439e-a81e-f0198ea63cee)
 
 ![screenshotimg] (images/Webpage Plan.jpeg)
